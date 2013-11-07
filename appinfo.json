@@ -1,0 +1,22 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "2ab7bceb-a960-4964-b0be-c71567c49dc9",
+    "appKeys": {},
+    "longName": "authenticator",
+    "versionCode": 1,
+    "shortName": "authenticator2",
+    "companyName": "blkhawk",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "RESOURCE_ID_IMAGE_MENU_ICON",
+                "file": "images/twostep_icon.png"
+            }
+        ]
+    }
+}
